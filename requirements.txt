@@ -1,12 +1,5 @@
-# Core numerical computation
-numpy>=1.24
-
-# CSV handling and dataframes (used for summary/per-step logging)
-pandas>=2.0
-
-# Optional plotting (for CLI plots)
-matplotlib>=3.7
-
-# Dashboard support
-streamlit>=1.30
-plotly>=5.15
+numpy==1.26.4
+matplotlib==3.8.4
+streamlit==1.32.0
+plotly==5.20.0
+pandas==2.2.1
